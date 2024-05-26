@@ -1,0 +1,23 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    
+}
+.box{
+    
+    width: 500px;
+    height: 500px;
+    background: #9aeb1f;
+    margin: auto;
+    margin-top: 40px;
+}
